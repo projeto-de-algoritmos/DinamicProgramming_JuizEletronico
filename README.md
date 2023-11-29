@@ -11,8 +11,14 @@
 | 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
+O repositório contém soluções para algumas questões de juíz online do LeetCode...
+- [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
+
 
 ## Screenshots e Apresentações
+- Minimum ASCII Delete Sum for Two Strings
+![Minimum ASCII Delete Sum for Two Strings](/img/minimum.png)
+
 
 ## Link das apresentações
 
