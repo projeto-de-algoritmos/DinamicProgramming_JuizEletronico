@@ -31,7 +31,7 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 - Consecutive Subsequences
 ![Consecutive_subsequences](./img/consecutive_subsequences.png)
 
-- Pizza With 3n Slices
+- Pizza With 3n Slices <br>
 ![Pizza With 3n Slices](/img/pizza.png)
 
 
