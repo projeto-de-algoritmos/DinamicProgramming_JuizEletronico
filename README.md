@@ -11,12 +11,14 @@
 | 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-O repositório contém soluções para algumas questões de juíz online do LeetCode...
+O repositório contém soluções para algumas questões de juíz online do LeetCode e CodeForces
 - [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
 
 - [Multiplicity](https://codeforces.com/problemset/problem/1061/C)
 
 - [Consecutive Subsequence](https://codeforces.com/problemset/problem/977/F) 
+
+- [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/description/)
 
 
 ## Screenshots e Apresentações
@@ -28,6 +30,10 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 - Consecutive Subsequences
 ![Consecutive_subsequences](./img/consecutive_subsequences.png)
+
+- Pizza With 3n Slices
+![Pizza With 3n Slices](/img/pizza.png)
+
 
 
 ## Link das apresentações
