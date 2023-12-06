@@ -12,7 +12,7 @@
 
 ## Sobre 
 O repositório contém soluções para algumas questões de juíz online do LeetCode e CodeForces
-- [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
+- [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) 
 
 - [Multiplicity](https://codeforces.com/problemset/problem/1061/C)
 
@@ -22,13 +22,13 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 
 ## Screenshots e Apresentações
-- Minimum ASCII Delete Sum for Two Strings
+- Minimum ASCII Delete Sum for Two Strings <br>
 ![Minimum ASCII Delete Sum for Two Strings](/img/minimum.png)
 
-- Multiplicity
+- Multiplicity <br>
 ![Multiplicity](./img/multiplicity.png)
 
-- Consecutive Subsequences
+- Consecutive Subsequences <br>
 ![Consecutive_subsequences](./img/consecutive_subsequences.png)
 
 - Pizza With 3n Slices <br>
@@ -38,7 +38,7 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 ## Link das apresentações
 
-Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta apresentacoes
+Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessá-las, os vídeos se encontram na pasta [apresentacoes](https://github.com/projeto-de-algoritmos/DinamicProgramming_JuizEletronico/tree/master/apresentacoes)
 
 - [Minimum ASCII Delete Sum for Two Strings e Apresentação Pizza With 3n Slices](https://youtu.be/ZjzrRMdqewk)
 
