@@ -35,7 +35,7 @@ public:
                       (s2[j] - 'a' + 97) + auxiliar(i, j + 1, s1, s2, matriz));
         }
 
-        // Armazenar o resultado na matriz de memoização
+        // Armazenar o resultado na matriz
         return matriz[i][j] = aux;
     }
 
@@ -71,7 +71,7 @@ public:
             soma1 -= (s1[i - 1] - 'a' + 97);
         }
 
-        // Preencher a matriz matriz 
+        // Preencher a matriz 
         for (int i = n - 1; i >= 0; i--) {
             for (int j = m - 1; j >= 0; j--) {
                 if (s1[i] == s2[j]) {

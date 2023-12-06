@@ -38,6 +38,10 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 ## Link das apresentações
 
+Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta apresentacoes
+
+- [Minimum ASCII Delete Sum for Two Strings e Apresentação Pizza With 3n Slices](https://youtu.be/ZjzrRMdqewk)
+
 
 ## Instalação 
 **Linguagem**: C++<br>
