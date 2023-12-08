@@ -42,6 +42,8 @@ Para maior conforto, as apresentações estão no youtube. Mas caso não consiga
 
 - [Minimum ASCII Delete Sum for Two Strings e Apresentação Pizza With 3n Slices](https://youtu.be/ZjzrRMdqewk)
 
+- [Multiplicity e Consecutive Subsequence](https://youtu.be/x5CAB4a1Ds0)
+
 
 ## Instalação 
 **Linguagem**: C++<br>
